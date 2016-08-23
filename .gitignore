@@ -13,7 +13,6 @@ $RECYCLE.BIN/
 
 # Personnal temp files
 _temp/
-_*.*
 *.bak
 *.rar
 *.zip
