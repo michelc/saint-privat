@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  background-color: #f0fff0;
+  background-color: #fff;
   color: #444;
 }
 
@@ -34,9 +34,15 @@ body {
 /* Images
    ========================================================================== */
 
-img {
+picture img {
   border: solid 1px #000;
   width: 100%;
+}
+img {
+  max-width: 100%;
+}
+p.img {
+  text-align: center;
 }
 
 
