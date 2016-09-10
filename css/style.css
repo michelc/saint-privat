@@ -35,7 +35,7 @@ body {
    ========================================================================== */
 
 picture img {
-  border: solid 1px #000;
+  border: solid 1px #444;
   width: 100%;
 }
 img {
@@ -52,11 +52,11 @@ p.img {
 a,
 a:visited {
   color: blue;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 
@@ -67,17 +67,25 @@ h3 {
   color: #777;
 }
 
+
+/* Lists
+   ========================================================================== */
+
+ol, ul {
+  margin: 0 0 0 1.3rem;
+  padding: 0;
+}
+
+
+/* Texts
+   ========================================================================== */
+
 p.source {
   color: #aaa;
 }
 
-
-/* List
-   ========================================================================== */
-
-ul {
-  margin: 0 0 0 1.15rem;
-  padding: 0;
+blockquote {
+  font-style: italic;
 }
 
 
