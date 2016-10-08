@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://saint-privat.eu.org/</loc>
-    <lastmod>2016-09-17</lastmod>
+    <lastmod>2016-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://saint-privat.eu.org/colonie.html</loc>
-    <lastmod>2016-09-17</lastmod>
+    <loc>https://saint-privat.eu.org/eglise.html</loc>
+    <lastmod>2016-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://saint-privat.eu.org/eglise.html</loc>
-    <lastmod>2016-09-17</lastmod>
+    <loc>https://saint-privat.eu.org/moulinages.html</loc>
+    <lastmod>2016-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://saint-privat.eu.org/colonie.html</loc>
+    <lastmod>2016-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
