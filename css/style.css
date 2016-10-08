@@ -41,7 +41,7 @@ picture img {
 img {
   max-width: 100%;
 }
-p.img {
+div.img p {
   text-align: center;
 }
 
